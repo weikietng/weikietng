@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Wei, a junior full stack developer. I am familiar with the Serverless framework with AWS and enjoy creating application through React and NEXT.JS framework. 
+
 <!--
 **weikietng/weikietng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##  Overall Stats
+[![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=weikietng)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
